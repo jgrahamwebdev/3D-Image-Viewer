@@ -1,0 +1,28 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #0984e3, #fff);
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 70rem;
+  height: 100vh;
+  margin: auto;
+}
+
+.civic {
+  position: absolute;
+  width: 30rem;
+  margin-left: 2rem;
+}
